@@ -1,0 +1,279 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "category": "JavaScript",
+            "question": "What is the result of adding a string and a number in JavaScript?",
+            "answer": "A string",
+            "options": [
+                "A number",
+                "An error",
+                "A string"
+            ]
+        },
+        {
+            "id": 2,
+            "category": "JavaScript",
+            "question": "How do you declare a variable in JavaScript?",
+            "answer": "Using the 'var', 'let', or 'const' keyword",
+            "options": [
+                "Using the 'variable' keyword",
+                "By typing the variable name",
+                "Using the 'var', 'let', or 'const' keyword"
+            ]
+        },
+        {
+            "id": 3,
+            "category": "JavaScript",
+            "question": "What is the purpose of the 'typeof' operator in JavaScript?",
+            "answer": "To determine the data type of a value",
+            "options": [
+                "To check if a variable is defined",
+                "To create a new variable",
+                "To determine the data type of a value"
+            ]
+        },
+        {
+            "id": 4,
+            "category": "JavaScript",
+            "question": "Which function is used to parse a JSON string in JavaScript?",
+            "answer": "JSON.parse()",
+            "options": [
+                "JSON.stringify()",
+                "JSON.parse()",
+                "parseJSON()"
+            ]
+        },
+        {
+            "id": 5,
+            "category": "JavaScript",
+            "question": "What is the 'this' keyword in JavaScript?",
+            "answer": "A reference to the current object",
+            "options": [
+                "A reserved keyword",
+                "A global variable",
+                "A reference to the current object"
+            ]
+        },
+        {
+            "id": 6,
+            "category": "JavaScript",
+            "question": "What does 'NaN' stand for in JavaScript?",
+            "answer": "Not-a-Number",
+            "options": [
+                "Numeric and Null",
+                "No Answer Necessary",
+                "Not-a-Number"
+            ]
+        },
+        {
+            "id": 7,
+            "category": "JavaScript",
+            "question": "What is a closure in JavaScript?",
+            "answer": "A function that has access to its outer function's scope",
+            "options": [
+                "An error in the code",
+                "A built-in JavaScript feature",
+                "A function that has access to its outer function's scope"
+            ]
+        },
+        {
+            "id": 8,
+            "category": "JavaScript",
+            "question": "Which operator is used for strict equality in JavaScript?",
+            "answer": "===",
+            "options": [
+                "===",
+                "==",
+                "="
+            ]
+        },
+        {
+            "id": 9,
+            "category": "JavaScript",
+            "question": "What is the purpose of the 'setTimeout' function in JavaScript?",
+            "answer": "To delay the execution of a function",
+            "options": [
+                "To repeat a function",
+                "To measure time",
+                "To delay the execution of a function"
+            ]
+        },
+        {
+            "id": 10,
+            "category": "JavaScript",
+            "question": "What does the 'map' method do in JavaScript?",
+            "answer": "Creates a new array with the results of calling a function on each element",
+            "options": [
+                "Updates the original array",
+                "Returns a single value",
+                "Creates a new array with the results of calling a function on each element"
+            ]
+        },
+        {
+            "id": 11,
+            "category": "JavaScript",
+            "question": "What is the purpose of the 'NaN' property in JavaScript?",
+            "answer": "It represents a value that is not a legal number",
+            "options": [
+                "It represents 'Not Available Now'",
+                "It represents the number zero",
+                "It represents a value that is not a legal number"
+            ]
+        },
+        {
+            "id": 12,
+            "category": "JavaScript",
+            "question": "Which keyword is used to declare a function in JavaScript?",
+            "answer": "function",
+            "options": [
+                "method",
+                "define",
+                "function"
+            ]
+        },
+        {
+            "id": 13,
+            "category": "JavaScript",
+            "question": "What is the purpose of the 'console.log' method in JavaScript?",
+            "answer": "To print messages to the console for debugging",
+            "options": [
+                "To create a log file",
+                "To display messages in a popup window",
+                "To print messages to the console for debugging"
+            ]
+        },
+        {
+            "id": 14,
+            "category": "JavaScript",
+            "question": "What does the 'var' keyword do in JavaScript?",
+            "answer": "Declares a variable in the current scope",
+            "options": [
+                "Defines a constant value",
+                "Imports external code",
+                "Declares a variable in the current scope"
+            ]
+        },
+        {
+            "id": 15,
+            "category": "JavaScript",
+            "question": "What is an IIFE in JavaScript?",
+            "answer": "Immediately Invoked Function Expression",
+            "options": [
+                "International Input Function Engine",
+                "Internal Isolated Function Environment",
+                "Immediately Invoked Function Expression"
+            ]
+        },
+        {
+            "id": 16,
+            "category": "JavaScript",
+            "question": "Which built-in object is used to perform mathematical operations in JavaScript?",
+            "answer": "Math",
+            "options": [
+                "Number",
+                "Calc",
+                "Math"
+            ]
+        },
+        {
+            "id": 17,
+            "category": "JavaScript",
+            "question": "What is the purpose of the 'JSON.stringify' method in JavaScript?",
+            "answer": "To convert a JavaScript object into a JSON string",
+            "options": [
+                "To parse a JSON string",
+                "To create a JavaScript object",
+                "To convert a JavaScript object into a JSON string"
+            ]
+        },
+        {
+            "id": 18,
+            "category": "JavaScript",
+            "question": "What is the purpose of the 'try...catch' statement in JavaScript?",
+            "answer": "To handle exceptions and errors",
+            "options": [
+                "To execute code immediately",
+                "To declare variables",
+                "To handle exceptions and errors"
+            ]
+        },
+        {
+            "id": 19,
+            "category": "JavaScript",
+            "question": "Which JavaScript operator is used to concatenate strings?",
+            "answer": "+",
+            "options": [
+                "&",
+                "-",
+                "+"
+            ]
+        },
+        {
+            "id": 20,
+            "category": "JavaScript",
+            "question": "What is the 'event delegation' technique in JavaScript?",
+            "answer": "Handling events on a parent element for multiple child elements",
+            "options": [
+                "Registering events on the document object",
+                "Using event listeners",
+                "Handling events on a parent element for multiple child elements"
+            ]
+        },
+        {
+            "id": 21,
+            "category": "JavaScript",
+            "question": "What is a callback function in JavaScript?",
+            "answer": "A function passed as an argument to another function",
+            "options": [
+                "A function that calls other functions",
+                "A function that returns multiple values",
+                "A function passed as an argument to another function"
+            ]
+        },
+        {
+            "id": 22,
+            "category": "JavaScript",
+            "question": "What does the 'bind' method do in JavaScript?",
+            "answer": "Creates a new function with a specified 'this' value",
+            "options": [
+                "Binds two functions together",
+                "Returns a boolean value",
+                "Creates a new function with a specified 'this' value"
+            ]
+        },
+        {
+            "id": 23,
+            "category": "JavaScript",
+            "question": "What is the purpose of the 'localStorage' object in JavaScript?",
+            "answer": "To store key-value pairs in a web browser",
+            "options": [
+                "To fetch data from a server",
+                "To create animations",
+                "To store key-value pairs in a web browser"
+            ]
+        },
+        {
+            "id": 24,
+            "category": "JavaScript",
+            "question": "What does the 'Array.isArray()' method check for in JavaScript?",
+            "answer": "Whether an object is an array",
+            "options": [
+                "Whether an array is empty",
+                "Whether an object is a string",
+                "Whether an object is an array"
+            ]
+        },
+        {
+            "id": 25,
+            "category": "JavaScript",
+            "question": "What is the purpose of the 'Object.keys()' method in JavaScript?",
+            "answer": "To retrieve an array of an object's own property names",
+            "options": [
+                "To retrieve an object's prototype",
+                "To create a new object",
+                "To retrieve an array of an object's own property names"
+            ]
+        }
+    ]
+}

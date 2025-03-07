@@ -1,0 +1,279 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "category": "Programming",
+            "question": "What does 'DRY' stand for in software development?",
+            "answer": "Don't Repeat Yourself",
+            "options": [
+                "Do Repeated Yield",
+                "Don't Risk Yourself",
+                "Don't Repeat Yourself"
+            ]
+        },
+        {
+            "id": 2,
+            "category": "Programming",
+            "question": "Which programming language is known for its use in artificial intelligence and machine learning?",
+            "answer": "Python",
+            "options": [
+                "Java",
+                "C++",
+                "Python"
+            ]
+        },
+        {
+            "id": 3,
+            "category": "Programming",
+            "question": "What is the term for a small piece of code that can be reused in multiple places?",
+            "answer": "Function",
+            "options": [
+                "Variable",
+                "Module",
+                "Function"
+            ]
+        },
+        {
+            "id": 4,
+            "category": "Programming",
+            "question": "What is the primary purpose of version control systems like Git?",
+            "answer": "Tracking and managing changes to source code",
+            "options": [
+                "Debugging code",
+                "Writing documentation",
+                "Tracking and managing changes to source code"
+            ]
+        },
+        {
+            "id": 5,
+            "category": "Programming",
+            "question": "Which programming paradigm encourages thinking of software as a series of functions?",
+            "answer": "Functional Programming",
+            "options": [
+                "Object-Oriented Programming",
+                "Procedural Programming",
+                "Functional Programming"
+            ]
+        },
+        {
+            "id": 6,
+            "category": "Programming",
+            "question": "What is the primary role of a compiler in the software development process?",
+            "answer": "Translating high-level code into machine code",
+            "options": [
+                "Finding bugs in code",
+                "Optimizing code execution",
+                "Translating high-level code into machine code"
+            ]
+        },
+        {
+            "id": 7,
+            "category": "Programming",
+            "question": "In programming, what does 'HTTP' stand for?",
+            "answer": "Hypertext Transfer Protocol",
+            "options": [
+                "High-Performance Testing Platform",
+                "Hypertext Transfer Protocol",
+                "Hyperlink and Text Transmission Protocol"
+            ]
+        },
+        {
+            "id": 8,
+            "category": "Programming",
+            "question": "What is an 'API' in the context of software development?",
+            "answer": "Application Programming Interface",
+            "options": [
+                "Advanced Programming Instruction",
+                "Application Programming Interface",
+                "Automated Program Implementation"
+            ]
+        },
+        {
+            "id": 9,
+            "category": "Programming",
+            "question": "What does 'OOP' stand for in object-oriented programming?",
+            "answer": "Object-Oriented Programming",
+            "options": [
+                "Overly Optimized Performance",
+                "Object-Oriented Programming",
+                "Online Operating Platform"
+            ]
+        },
+        {
+            "id": 10,
+            "category": "Programming",
+            "question": "Which data structure is commonly used to organize elements in a last-in-first-out (LIFO) manner?",
+            "answer": "Stack",
+            "options": [
+                "Queue",
+                "Heap",
+                "Stack"
+            ]
+        },
+        {
+            "id": 11,
+            "category": "Programming",
+            "question": "In software development, what is 'refactoring'?",
+            "answer": "Restructuring existing code without changing its external behavior",
+            "options": [
+                "Creating new features",
+                "Documenting code",
+                "Restructuring existing code without changing its external behavior"
+            ]
+        },
+        {
+            "id": 12,
+            "category": "Programming",
+            "question": "What is the term for a variable that is accessible throughout an entire program?",
+            "answer": "Global Variable",
+            "options": [
+                "Local Variable",
+                "Constant",
+                "Global Variable"
+            ]
+        },
+        {
+            "id": 13,
+            "category": "Programming",
+            "question": "Which programming language is often used for building web applications and is known for its simplicity?",
+            "answer": "JavaScript",
+            "options": [
+                "Java",
+                "C#",
+                "JavaScript"
+            ]
+        },
+        {
+            "id": 14,
+            "category": "Programming",
+            "question": "What does 'SQL' stand for in database management?",
+            "answer": "Structured Query Language",
+            "options": [
+                "System Query Logic",
+                "Structured Query Language",
+                "Simple Query Line"
+            ]
+        },
+        {
+            "id": 15,
+            "category": "Programming",
+            "question": "What is the purpose of the 'for' loop in programming?",
+            "answer": "Iterating over a sequence of values or elements",
+            "options": [
+                "Declaring variables",
+                "Defining functions",
+                "Iterating over a sequence of values or elements"
+            ]
+        },
+        {
+            "id": 16,
+            "category": "Programming",
+            "question": "What is the term for a piece of code that is not executed and is written to explain the code's functionality?",
+            "answer": "Comment",
+            "options": [
+                "Directive",
+                "Statement",
+                "Comment"
+            ]
+        },
+        {
+            "id": 17,
+            "category": "Programming",
+            "question": "What is 'agile' in software development methodologies?",
+            "answer": "An iterative and flexible approach to project management",
+            "options": [
+                "A programming language",
+                "A software testing framework",
+                "An iterative and flexible approach to project management"
+            ]
+        },
+        {
+            "id": 18,
+            "category": "Programming",
+            "question": "What does 'MVC' stand for in web application architecture?",
+            "answer": "Model-View-Controller",
+            "options": [
+                "Mastering Visual Code",
+                "Model-View-Controller",
+                "Managing Version Control"
+            ]
+        },
+        {
+            "id": 19,
+            "category": "Programming",
+            "question": "Which programming language is often used for scientific computing and data analysis?",
+            "answer": "R",
+            "options": [
+                "Ruby",
+                "C++",
+                "R"
+            ]
+        },
+        {
+            "id": 20,
+            "category": "Programming",
+            "question": "What is the purpose of the 'break' statement in a loop?",
+            "answer": "To exit the loop prematurely",
+            "options": [
+                "To continue to the next iteration",
+                "To print a message",
+                "To exit the loop prematurely"
+            ]
+        },
+        {
+            "id": 21,
+            "category": "Programming",
+            "question": "What is 'debugging' in software development?",
+            "answer": "The process of finding and fixing errors in code",
+            "options": [
+                "Creating new features",
+                "Testing code performance",
+                "The process of finding and fixing errors in code"
+            ]
+        },
+        {
+            "id": 22,
+            "category": "Programming",
+            "question": "What is 'agile' in software development methodologies?",
+            "answer": "An iterative and flexible approach to project management",
+            "options": [
+                "A programming language",
+                "A software testing framework",
+                "An iterative and flexible approach to project management"
+            ]
+        },
+        {
+            "id": 23,
+            "category": "Programming",
+            "question": "What is 'inheritance' in object-oriented programming?",
+            "answer": "The ability of a class to inherit properties and methods from another class",
+            "options": [
+                "Copying code from one program to another",
+                "The ability to reuse code",
+                "The ability of a class to inherit properties and methods from another class"
+            ]
+        },
+        {
+            "id": 24,
+            "category": "Programming",
+            "question": "What does 'API' stand for in web development?",
+            "answer": "Application Programming Interface",
+            "options": [
+                "Advanced Programming Instruction",
+                "Application Program Interface",
+                "Automated Program Interaction"
+            ]
+        },
+        {
+            "id": 25,
+            "category": "Programming",
+            "question": "What is 'pair programming' in agile software development?",
+            "answer": "Two programmers working together at one computer",
+            "options": [
+                "Programming with a pair of languages",
+                "Testing code in pairs",
+                "Two programmers working together at one computer"
+            ]
+        }
+    ]
+}

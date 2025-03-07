@@ -1,0 +1,279 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "category": "HTML",
+            "question": "What does 'HTML' stand for in web development?",
+            "answer": "Hypertext Markup Language",
+            "options": [
+                "Hypertext Transfer Language",
+                "Hypertext Markup Language",
+                "High-Level Text Manipulation Language"
+            ]
+        },
+        {
+            "id": 2,
+            "category": "HTML",
+            "question": "Which HTML tag is used to create a hyperlink?",
+            "answer": "<a>",
+            "options": [
+                "<link>",
+                "<url>",
+                "<a>"
+            ]
+        },
+        {
+            "id": 3,
+            "category": "HTML",
+            "question": "What is the purpose of the 'alt' attribute in an <img> tag?",
+            "answer": "Provides alternative text for the image",
+            "options": [
+                "Defines the image source",
+                "Sets the image size",
+                "Provides alternative text for the image"
+            ]
+        },
+        {
+            "id": 4,
+            "category": "HTML",
+            "question": "Which HTML tag is used to define the structure of a web page, such as headings and paragraphs?",
+            "answer": "<p>",
+            "options": [
+                "<h1>",
+                "<p>",
+                "<div>"
+            ]
+        },
+        {
+            "id": 5,
+            "category": "HTML",
+            "question": "What is the purpose of the 'doctype' declaration in an HTML document?",
+            "answer": "Defines the document type and version of HTML",
+            "options": [
+                "Sets the character encoding",
+                "Defines the document type and version of HTML",
+                "Specifies the background color"
+            ]
+        },
+        {
+            "id": 6,
+            "category": "HTML",
+            "question": "Which HTML tag is used to create an unordered list?",
+            "answer": "<ul>",
+            "options": [
+                "<ol>",
+                "<li>",
+                "<ul>"
+            ]
+        },
+        {
+            "id": 7,
+            "category": "HTML",
+            "question": "What is the HTML entity code for the copyright symbol (©)?",
+            "answer": "&copy;",
+            "options": [
+                "&reg;",
+                "&copy;",
+                "&tm;"
+            ]
+        },
+        {
+            "id": 8,
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a table row?",
+            "answer": "<tr>",
+            "options": [
+                "<table>",
+                "<tr>",
+                "<td>"
+            ]
+        },
+        {
+            "id": 9,
+            "category": "HTML",
+            "question": "In HTML, what does the <br> tag represent?",
+            "answer": "Line break",
+            "options": [
+                "Bold text",
+                "Line break",
+                "Paragraph"
+            ]
+        },
+        {
+            "id": 10,
+            "category": "HTML",
+            "question": "What is the HTML tag used for creating a hyperlink to an email address?",
+            "answer": "<a href='mailto:email@example.com'>",
+            "options": [
+                "<mail>",
+                "<email>",
+                "<a href='mailto:email@example.com'>"
+            ]
+        },
+        {
+            "id": 11,
+            "category": "HTML",
+            "question": "What is the purpose of the 'meta' tag in HTML?",
+            "answer": "Provides metadata about the HTML document",
+            "options": [
+                "Defines the document structure",
+                "Creates hyperlinks",
+                "Provides metadata about the HTML document"
+            ]
+        },
+        {
+            "id": 12,
+            "category": "HTML",
+            "question": "Which HTML tag is used to create a numbered list?",
+            "answer": "<ol>",
+            "options": [
+                "<ul>",
+                "<li>",
+                "<ol>"
+            ]
+        },
+        {
+            "id": 13,
+            "category": "HTML",
+            "question": "What does 'HTML5' refer to?",
+            "answer": "The latest version of HTML",
+            "options": [
+                "The first version of HTML",
+                "A scripting language",
+                "The latest version of HTML"
+            ]
+        },
+        {
+            "id": 14,
+            "category": "HTML",
+            "question": "Which HTML tag is used to create a line break within a paragraph?",
+            "answer": "<br>",
+            "options": [
+                "<lb>",
+                "<newline>",
+                "<br>"
+            ]
+        },
+        {
+            "id": 15,
+            "category": "HTML",
+            "question": "What is the purpose of the 'target' attribute in an anchor (<a>) tag?",
+            "answer": "Specifies where to open the linked document",
+            "options": [
+                "Defines the link text",
+                "Specifies the link's color",
+                "Specifies where to open the linked document"
+            ]
+        },
+        {
+            "id": 16,
+            "category": "HTML",
+            "question": "Which HTML tag is used to create a horizontal line?",
+            "answer": "<hr>",
+            "options": [
+                "<line>",
+                "<separator>",
+                "<hr>"
+            ]
+        },
+        {
+            "id": 17,
+            "category": "HTML",
+            "question": "What does the 'DOCTYPE' declaration in HTML5 look like?",
+            "answer": "<!DOCTYPE html>",
+            "options": [
+                "<html-doctype>",
+                "<!DOCTYPE html>",
+                "<html5-doctype>"
+            ]
+        },
+        {
+            "id": 18,
+            "category": "HTML",
+            "question": "Which HTML tag is used to define a hyperlink?",
+            "answer": "<a>",
+            "options": [
+                "<link>",
+                "<url>",
+                "<a>"
+            ]
+        },
+        {
+            "id": 19,
+            "category": "HTML",
+            "question": "What is the HTML entity code for the ampersand symbol (&)?",
+            "answer": "&amp;",
+            "options": [
+                "&and;",
+                "&amp;",
+                "&percent;"
+            ]
+        },
+        {
+            "id": 20,
+            "category": "HTML",
+            "question": "Which HTML tag is used to create an image on a web page?",
+            "answer": "<img>",
+            "options": [
+                "<image>",
+                "<picture>",
+                "<img>"
+            ]
+        },
+        {
+            "id": 21,
+            "category": "HTML",
+            "question": "What does the 'href' attribute in an anchor (<a>) tag specify?",
+            "answer": "The URL of the linked page",
+            "options": [
+                "The link text",
+                "The link's color",
+                "The URL of the linked page"
+            ]
+        },
+        {
+            "id": 22,
+            "category": "HTML",
+            "question": "Which HTML tag is used to create a table?",
+            "answer": "<table>",
+            "options": [
+                "<grid>",
+                "<table>",
+                "<tabular>"
+            ]
+        },
+        {
+            "id": 23,
+            "category": "HTML",
+            "question": "What is the purpose of the 'alt' attribute in an <area> tag within an image map?",
+            "answer": "Provides alternative text for the area",
+            "options": [
+                "Defines the shape of the area",
+                "Sets the area's size",
+                "Provides alternative text for the area"
+            ]
+        },
+        {
+            "id": 24,
+            "category": "HTML",
+            "question": "Which HTML tag is used to create a list item within an ordered or unordered list?",
+            "answer": "<li>",
+            "options": [
+                "<item>",
+                "<list>",
+                "<li>"
+            ]
+        },
+        {
+            "id": 25,
+            "category": "HTML",
+            "question": "What is the purpose of the 'charset' attribute in the <meta> tag?",
+            "answer": "Defines the character encoding for the document",
+            "options": [
+                "Defines the document title",
+                "Specifies the viewport",
+                "Defines the character encoding for the document"
+            ]
+        }
+    ]
+}

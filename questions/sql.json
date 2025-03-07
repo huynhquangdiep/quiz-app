@@ -1,0 +1,279 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "category": "SQL",
+            "question": "What does SQL stand for?",
+            "answer": "Structured Query Language",
+            "options": [
+                "Structured Query Language",
+                "Sequential Query Language",
+                "Standard Query Language"
+            ]
+        },
+        {
+            "id": 2,
+            "category": "SQL",
+            "question": "Which SQL statement is used to retrieve data from a database?",
+            "answer": "SELECT",
+            "options": [
+                "RETRIEVE",
+                "FETCH",
+                "SELECT"
+            ]
+        },
+        {
+            "id": 3,
+            "category": "SQL",
+            "question": "In SQL, what is the purpose of the 'WHERE' clause?",
+            "answer": "To filter rows based on a specified condition",
+            "options": [
+                "To order the results",
+                "To group rows by a column",
+                "To filter rows based on a specified condition"
+            ]
+        },
+        {
+            "id": 4,
+            "category": "SQL",
+            "question": "What is the result of combining two or more tables in SQL?",
+            "answer": "A result set containing data from all the tables",
+            "options": [
+                "An error",
+                "A new table",
+                "A result set containing data from all the tables"
+            ]
+        },
+        {
+            "id": 5,
+            "category": "SQL",
+            "question": "Which SQL statement is used to insert data into a database?",
+            "answer": "INSERT INTO",
+            "options": [
+                "ADD DATA",
+                "INSERT DATA",
+                "INSERT INTO"
+            ]
+        },
+        {
+            "id": 6,
+            "category": "SQL",
+            "question": "What does 'SQL injection' refer to?",
+            "answer": "A security vulnerability where malicious SQL queries are injected into input fields",
+            "options": [
+                "A way to improve SQL performance",
+                "A SQL error",
+                "A security vulnerability where malicious SQL queries are injected into input fields"
+            ]
+        },
+        {
+            "id": 7,
+            "category": "SQL",
+            "question": "Which SQL statement is used to update data in a database?",
+            "answer": "UPDATE",
+            "options": [
+                "MODIFY",
+                "ALTER",
+                "UPDATE"
+            ]
+        },
+        {
+            "id": 8,
+            "category": "SQL",
+            "question": "In SQL, what is the purpose of the 'GROUP BY' clause?",
+            "answer": "To group rows with the same values into summary rows",
+            "options": [
+                "To order the results",
+                "To filter rows",
+                "To group rows with the same values into summary rows"
+            ]
+        },
+        {
+            "id": 9,
+            "category": "SQL",
+            "question": "What SQL keyword is used to remove data from a database?",
+            "answer": "DELETE",
+            "options": [
+                "DROP",
+                "REMOVE",
+                "DELETE"
+            ]
+        },
+        {
+            "id": 10,
+            "category": "SQL",
+            "question": "Which SQL statement is used to delete a table?",
+            "answer": "DROP TABLE",
+            "options": [
+                "DELETE TABLE",
+                "REMOVE TABLE",
+                "DROP TABLE"
+            ]
+        },
+        {
+            "id": 11,
+            "category": "SQL",
+            "question": "What does 'ACID' stand for in the context of database transactions?",
+            "answer": "Atomicity, Consistency, Isolation, Durability",
+            "options": [
+                "Advanced Control of In-Database Systems",
+                "All Columns in a Database",
+                "Atomicity, Consistency, Isolation, Durability"
+            ]
+        },
+        {
+            "id": 12,
+            "category": "SQL",
+            "question": "In SQL, what is a 'foreign key'?",
+            "answer": "A field that links to the primary key of another table",
+            "options": [
+                "A unique identifier for a record",
+                "A field that contains text data",
+                "A field that links to the primary key of another table"
+            ]
+        },
+        {
+            "id": 13,
+            "category": "SQL",
+            "question": "What is the purpose of the 'JOIN' clause in SQL?",
+            "answer": "To combine rows from two or more tables based on a related column between them",
+            "options": [
+                "To filter rows",
+                "To order the results",
+                "To combine rows from two or more tables based on a related column between them"
+            ]
+        },
+        {
+            "id": 14,
+            "category": "SQL",
+            "question": "What is the SQL command used to change the structure of a table?",
+            "answer": "ALTER TABLE",
+            "options": [
+                "MODIFY TABLE",
+                "CHANGE TABLE",
+                "ALTER TABLE"
+            ]
+        },
+        {
+            "id": 15,
+            "category": "SQL",
+            "question": "What SQL statement is used to retrieve all the records from a table?",
+            "answer": "SELECT * FROM",
+            "options": [
+                "SELECT ALL",
+                "FETCH ALL",
+                "SELECT * FROM"
+            ]
+        },
+        {
+            "id": 16,
+            "category": "SQL",
+            "question": "In SQL, what is a 'primary key'?",
+            "answer": "A unique identifier for each record in a table",
+            "options": [
+                "A foreign key",
+                "A secondary key",
+                "A unique identifier for each record in a table"
+            ]
+        },
+        {
+            "id": 17,
+            "category": "SQL",
+            "question": "What does 'DBMS' stand for in the context of databases?",
+            "answer": "Database Management System",
+            "options": [
+                "Data Backup and Management System",
+                "Database Management Software",
+                "Database Management System"
+            ]
+        },
+        {
+            "id": 18,
+            "category": "SQL",
+            "question": "What is the SQL command used to retrieve unique values from a table's column?",
+            "answer": "SELECT DISTINCT",
+            "options": [
+                "SELECT UNIQUE",
+                "SELECT UNIQUE VALUES",
+                "SELECT DISTINCT"
+            ]
+        },
+        {
+            "id": 19,
+            "category": "SQL",
+            "question": "What is the SQL command used to add a new column to an existing table?",
+            "answer": "ALTER TABLE ADD COLUMN",
+            "options": [
+                "MODIFY TABLE ADD COLUMN",
+                "ADD NEW COLUMN",
+                "ALTER TABLE ADD COLUMN"
+            ]
+        },
+        {
+            "id": 20,
+            "category": "SQL",
+            "question": "What SQL command is used to sort the result set of a query in ascending order?",
+            "answer": "ORDER BY",
+            "options": [
+                "SORT BY",
+                "ASCENDING",
+                "ORDER BY"
+            ]
+        },
+        {
+            "id": 21,
+            "category": "SQL",
+            "question": "What is the purpose of the SQL 'HAVING' clause?",
+            "answer": "To filter the results of a grouped query",
+            "options": [
+                "To order the results",
+                "To join tables",
+                "To filter the results of a grouped query"
+            ]
+        },
+        {
+            "id": 22,
+            "category": "SQL",
+            "question": "What is 'Normalization' in the context of database design?",
+            "answer": "A process to eliminate data redundancy and improve data integrity",
+            "options": [
+                "Data encryption",
+                "Data export",
+                "A process to eliminate data redundancy and improve data integrity"
+            ]
+        },
+        {
+            "id": 23,
+            "category": "SQL",
+            "question": "What is the purpose of the SQL 'UNION' operator?",
+            "answer": "To combine the result sets of two or more SELECT statements",
+            "options": [
+                "To subtract one result set from another",
+                "To divide one result set by another",
+                "To combine the result sets of two or more SELECT statements"
+            ]
+        },
+        {
+            "id": 24,
+            "category": "SQL",
+            "question": "What is the SQL command used to change data in a database?",
+            "answer": "UPDATE",
+            "options": [
+                "MODIFY",
+                "CHANGE",
+                "UPDATE"
+            ]
+        },
+        {
+            "id": 25,
+            "category": "SQL",
+            "question": "What is the purpose of the SQL 'LIKE' operator?",
+            "answer": "To search for a specified pattern in a column",
+            "options": [
+                "To perform arithmetic calculations",
+                "To retrieve all records",
+                "To search for a specified pattern in a column"
+            ]
+        }
+    ]
+}

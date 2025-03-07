@@ -1,0 +1,279 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "category": "CSS",
+            "question": "What does 'CSS' stand for in web development?",
+            "answer": "Cascading Style Sheets",
+            "options": [
+                "Creative Style Sheets",
+                "Cascading Style Sheets",
+                "Computer Style Sheets"
+            ]
+        },
+        {
+            "id": 2,
+            "category": "CSS",
+            "question": "Which CSS property is used to change the background color of an element?",
+            "answer": "background-color",
+            "options": [
+                "color",
+                "background-color",
+                "border-color"
+            ]
+        },
+        {
+            "id": 3,
+            "category": "CSS",
+            "question": "In CSS, what does the 'float' property do?",
+            "answer": "Controls the alignment of elements",
+            "options": [
+                "Makes elements invisible",
+                "Controls the alignment of elements",
+                "Changes the font size"
+            ]
+        },
+        {
+            "id": 4,
+            "category": "CSS",
+            "question": "What is the term for the process of adapting a web page's layout to fit different screen sizes?",
+            "answer": "Responsive Design",
+            "options": [
+                "Adaptive Design",
+                "Static Design",
+                "Responsive Design"
+            ]
+        },
+        {
+            "id": 5,
+            "category": "CSS",
+            "question": "Which CSS property is used to add shadow to an element?",
+            "answer": "box-shadow",
+            "options": [
+                "text-shadow",
+                "shadow",
+                "box-shadow"
+            ]
+        },
+        {
+            "id": 6,
+            "category": "CSS",
+            "question": "In CSS, how do you select all elements with the class 'example'?",
+            "answer": ".example",
+            "options": [
+                "#example",
+                ".example",
+                "element.example"
+            ]
+        },
+        {
+            "id": 7,
+            "category": "CSS",
+            "question": "Which CSS unit of measurement is relative to the font size of the parent element?",
+            "answer": "em",
+            "options": [
+                "px",
+                "rem",
+                "em"
+            ]
+        },
+        {
+            "id": 8,
+            "category": "CSS",
+            "question": "What is the default value of the 'position' property in CSS?",
+            "answer": "static",
+            "options": [
+                "relative",
+                "absolute",
+                "static"
+            ]
+        },
+        {
+            "id": 9,
+            "category": "CSS",
+            "question": "Which CSS property is used to control the spacing between elements inside a box?",
+            "answer": "padding",
+            "options": [
+                "margin",
+                "spacing",
+                "padding"
+            ]
+        },
+        {
+            "id": 10,
+            "category": "CSS",
+            "question": "What does the CSS property 'display: none;' do?",
+            "answer": "Hides the element",
+            "options": [
+                "Makes the element semi-transparent",
+                "Hides the element",
+                "Enlarges the element"
+            ]
+        },
+        {
+            "id": 11,
+            "category": "CSS",
+            "question": "Which CSS property is used to change the font size of text?",
+            "answer": "font-size",
+            "options": [
+                "text-size",
+                "font-size",
+                "text-font"
+            ]
+        },
+        {
+            "id": 12,
+            "category": "CSS",
+            "question": "What does the 'z-index' property in CSS control?",
+            "answer": "Stacking order of elements",
+            "options": [
+                "Font size",
+                "Text alignment",
+                "Stacking order of elements"
+            ]
+        },
+        {
+            "id": 13,
+            "category": "CSS",
+            "question": "Which CSS property is used to add rounded corners to an element?",
+            "answer": "border-radius",
+            "options": [
+                "corner-radius",
+                "border-round",
+                "border-radius"
+            ]
+        },
+        {
+            "id": 14,
+            "category": "CSS",
+            "question": "In CSS, how do you select the first child of an element?",
+            "answer": ":first-child",
+            "options": [
+                ":first-child",
+                ":nth-child(1)",
+                ":child(1)"
+            ]
+        },
+        {
+            "id": 15,
+            "category": "CSS",
+            "question": "What is the purpose of the 'box-sizing' property in CSS?",
+            "answer": "Controls how the element's size is calculated",
+            "options": [
+                "Controls the box's color",
+                "Controls how the element's size is calculated",
+                "Controls element visibility"
+            ]
+        },
+        {
+            "id": 16,
+            "category": "CSS",
+            "question": "What is the CSS pseudo-class used to style a link that has been visited?",
+            "answer": ":visited",
+            "options": [
+                ":link",
+                ":visited",
+                ":active"
+            ]
+        },
+        {
+            "id": 17,
+            "category": "CSS",
+            "question": "Which CSS property is used to change the text color of an element?",
+            "answer": "color",
+            "options": [
+                "text-color",
+                "font-color",
+                "color"
+            ]
+        },
+        {
+            "id": 18,
+            "category": "CSS",
+            "question": "In CSS, what does 'Cascading' refer to in 'Cascading Style Sheets'?",
+            "answer": "The order of priority for styles",
+            "options": [
+                "The use of water animation",
+                "The order of priority for styles",
+                "The grouping of styles"
+            ]
+        },
+        {
+            "id": 19,
+            "category": "CSS",
+            "question": "Which CSS property is used to specify the space outside an element's border?",
+            "answer": "margin",
+            "options": [
+                "padding",
+                "spacing",
+                "margin"
+            ]
+        },
+        {
+            "id": 20,
+            "category": "CSS",
+            "question": "What does the 'CSS specificity' determine in CSS style rules?",
+            "answer": "Which style rule takes precedence",
+            "options": [
+                "The order of style rules",
+                "Which style rule takes precedence",
+                "The use of animations"
+            ]
+        },
+        {
+            "id": 21,
+            "category": "CSS",
+            "question": "Which CSS property is used to control the text alignment within an element?",
+            "answer": "text-align",
+            "options": [
+                "alignment",
+                "text-align",
+                "text-justify"
+            ]
+        },
+        {
+            "id": 22,
+            "category": "CSS",
+            "question": "What is the purpose of the 'clearfix' class in CSS?",
+            "answer": "To clear floated elements and prevent layout issues",
+            "options": [
+                "To hide elements",
+                "To increase font size",
+                "To apply a gradient background"
+            ]
+        },
+        {
+            "id": 23,
+            "category": "CSS",
+            "question": "Which CSS property is used to control the order of overlapping elements?",
+            "answer": "z-index",
+            "options": [
+                "layer-index",
+                "overlap-index",
+                "z-index"
+            ]
+        },
+        {
+            "id": 24,
+            "category": "CSS",
+            "question": "In CSS, what is the purpose of the 'media query'?",
+            "answer": "To apply styles based on the device's characteristics",
+            "options": [
+                "To create animations",
+                "To define color schemes",
+                "To apply styles based on the device's characteristics"
+            ]
+        },
+        {
+            "id": 25,
+            "category": "CSS",
+            "question": "Which CSS property is used to control the spacing between lines of text?",
+            "answer": "line-height",
+            "options": [
+                "letter-spacing",
+                "word-spacing",
+                "line-height"
+            ]
+        }
+    ]
+}
