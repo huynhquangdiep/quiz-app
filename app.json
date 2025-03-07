@@ -40,15 +40,15 @@
         "origin": false
       },
       "eas": {
-        "projectId": "99728a31-da29-4b22-9237-06bb9b47d6e4"
+        "projectId": "6fdaa977-6b02-4b97-9054-eb8636a250df"
       }
     },
     "runtimeVersion": {
       "policy": "appVersion"
     },
     "updates": {
-      "url": "https://u.expo.dev/99728a31-da29-4b22-9237-06bb9b47d6e4"
+      "url": "https://u.expo.dev/6fdaa977-6b02-4b97-9054-eb8636a250df"
     },
-    "owner": "tomhg59"
+    "owner": "huynhquangdiep"
   }
 }

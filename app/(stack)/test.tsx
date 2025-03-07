@@ -78,7 +78,7 @@ export default function TestScreen() {
 						<Text className='font-bold text-orange-500 text-lg'>
 							{questions[count]?.category}
 						</Text>
-						<Text className='text-gray-500 text-lg'>{count + 1}/40</Text>
+						<Text className='text-gray-500 text-lg'>{count + 1} / 10</Text>
 					</View>
 
 					<View className='flex items-center'>

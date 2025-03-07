@@ -33,7 +33,7 @@ export default function HomeScreen() {
 		}
 	};
 
-	const handleStartTest = async () => {
+	// const handleStartTest = async () => {
 		// Alert.alert("Start Test", "Are you sure you want to start the test?", [
 		// 	{
 		// 		text: "Cancel",
@@ -44,7 +44,9 @@ export default function HomeScreen() {
 		// 		onPress: () => fetchQuestions(),
 		// 	},
 		// ]);
-	};
+	// };
+
+	const handleStartTest = async () => fetchQuestions();
 
 	return (
 		<SafeAreaView className='flex-1 bg-orange-100 px-4 py-2'>
