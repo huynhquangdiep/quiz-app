@@ -1,0 +1,277 @@
+[
+    {
+        "id": 1,
+        "category": "Hóa học",
+        "question": "Nguyên tử được cấu tạo từ những hạt nào?",
+        "answer": "Proton, neutron, electron",
+        "options": [
+            "Proton, neutron, electron",
+            "Chỉ có electron và proton",
+            "Chỉ có neutron và proton"
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Hóa học",
+        "question": "Nguyên tố hóa học nào có số hiệu nguyên tử là 1?",
+        "answer": "Hydro",
+        "options": [
+            "Heli",
+            "Hydro",
+            "Oxy"
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Hóa học",
+        "question": "Công thức hóa học của nước là gì?",
+        "answer": "H₂O",
+        "options": [
+            "H₂O",
+            "CO₂",
+            "O₂"
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Hóa học",
+        "question": "Chất nào sau đây là đơn chất?",
+        "answer": "O₂",
+        "options": [
+            "H₂O",
+            "NaCl",
+            "O₂"
+        ]
+    },
+    {
+        "id": 5,
+        "category": "Hóa học",
+        "question": "Hợp chất nào là muối?",
+        "answer": "NaCl",
+        "options": [
+            "H₂O",
+            "NaCl",
+            "O₂"
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Hóa học",
+        "question": "Số proton trong hạt nhân của một nguyên tử bằng số nào?",
+        "answer": "Số electron",
+        "options": [
+            "Số electron",
+            "Số neutron",
+            "Số khối"
+        ]
+    },
+    {
+        "id": 7,
+        "category": "Hóa học",
+        "question": "Sự biến đổi nào là hóa học?",
+        "answer": "Sắt bị gỉ",
+        "options": [
+            "Nước bay hơi",
+            "Sắt bị gỉ",
+            "Muối tan trong nước"
+        ]
+    },
+    {
+        "id": 8,
+        "category": "Hóa học",
+        "question": "Kim loại nào dẫn điện tốt nhất?",
+        "answer": "Bạc",
+        "options": [
+            "Nhôm",
+            "Sắt",
+            "Bạc"
+        ]
+    },
+    {
+        "id": 9,
+        "category": "Hóa học",
+        "question": "Khí nào cần thiết cho quá trình hô hấp?",
+        "answer": "Oxy",
+        "options": [
+            "Nitơ",
+            "Oxy",
+            "Carbon dioxide"
+        ]
+    },
+    {
+        "id": 10,
+        "category": "Hóa học",
+        "question": "Hóa trị của oxy trong hợp chất là bao nhiêu?",
+        "answer": "II",
+        "options": [
+            "I",
+            "II",
+            "III"
+        ]
+    },
+    {
+        "id": 11,
+        "category": "Hóa học",
+        "question": "Chất nào sau đây là axit?",
+        "answer": "HCl",
+        "options": [
+            "NaOH",
+            "HCl",
+            "NaCl"
+        ]
+    },
+    {
+        "id": 12,
+        "category": "Hóa học",
+        "question": "Chất nào có thể phản ứng với axit để tạo ra muối và nước?",
+        "answer": "Bazơ",
+        "options": [
+            "Bazơ",
+            "Kim loại",
+            "Phi kim"
+        ]
+    },
+    {
+        "id": 13,
+        "category": "Hóa học",
+        "question": "Nhóm chất nào là phi kim?",
+        "answer": "O₂, Cl₂, S",
+        "options": [
+            "Fe, Cu, Al",
+            "Na, K, Mg",
+            "O₂, Cl₂, S"
+        ]
+    },
+    {
+        "id": 14,
+        "category": "Hóa học",
+        "question": "Phản ứng nào là phản ứng hóa hợp?",
+        "answer": "2H₂ + O₂ → 2H₂O",
+        "options": [
+            "H₂O → H₂ + O₂",
+            "2H₂ + O₂ → 2H₂O",
+            "NaCl → Na + Cl₂"
+        ]
+    },
+    {
+        "id": 15,
+        "category": "Hóa học",
+        "question": "Công thức của khí carbon dioxide là gì?",
+        "answer": "CO₂",
+        "options": [
+            "CO₂",
+            "CH₄",
+            "O₂"
+        ]
+    },
+    {
+        "id": 16,
+        "category": "Hóa học",
+        "question": "Bazơ tan trong nước còn được gọi là gì?",
+        "answer": "Kiềm",
+        "options": [
+            "Axit",
+            "Muối",
+            "Kiềm"
+        ]
+    },
+    {
+        "id": 17,
+        "category": "Hóa học",
+        "question": "Dung dịch nào có tính bazơ?",
+        "answer": "NaOH",
+        "options": [
+            "HCl",
+            "NaOH",
+            "NaCl"
+        ]
+    },
+    {
+        "id": 18,
+        "category": "Hóa học",
+        "question": "Chất nào sau đây có thể phản ứng với nước tạo thành dung dịch axit?",
+        "answer": "SO₂",
+        "options": [
+            "SO₂",
+            "Na₂O",
+            "CaO"
+        ]
+    },
+    {
+        "id": 19,
+        "category": "Hóa học",
+        "question": "Nguyên tố có hóa trị I trong hợp chất NaCl là gì?",
+        "answer": "Na",
+        "options": [
+            "Cl",
+            "Na",
+            "O"
+        ]
+    },
+    {
+        "id": 20,
+        "category": "Hóa học",
+        "question": "Kim loại nào nhẹ nhất?",
+        "answer": "Liti",
+        "options": [
+            "Natri",
+            "Liti",
+            "Kali"
+        ]
+    },
+    {
+        "id": 21,
+        "category": "Hóa học",
+        "question": "Chất nào sau đây là chất tinh khiết?",
+        "answer": "Nước cất",
+        "options": [
+            "Nước cất",
+            "Nước muối",
+            "Nước đường"
+        ]
+    },
+    {
+        "id": 22,
+        "category": "Hóa học",
+        "question": "Chất nào là chất xúc tác trong phản ứng phân hủy H₂O₂?",
+        "answer": "MnO₂",
+        "options": [
+            "H₂O",
+            "MnO₂",
+            "NaCl"
+        ]
+    },
+    {
+        "id": 23,
+        "category": "Hóa học",
+        "question": "Hóa trị của Clo trong HCl là bao nhiêu?",
+        "answer": "I",
+        "options": [
+            "I",
+            "II",
+            "III"
+        ]
+    },
+    {
+        "id": 24,
+        "category": "Hóa học",
+        "question": "Khí nào có thể làm đục nước vôi trong?",
+        "answer": "CO₂",
+        "options": [
+            "O₂",
+            "CO₂",
+            "H₂"
+        ]
+    },
+    {
+        "id": 25,
+        "category": "Hóa học",
+        "question": "Số Avogadro xấp xỉ bằng bao nhiêu?",
+        "answer": "6.022 × 10²³",
+        "options": [
+            "6.022 × 10²³",
+            "3.14 × 10²³",
+            "1.67 × 10²³"
+        ]
+    }
+]

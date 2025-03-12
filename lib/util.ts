@@ -20,44 +20,38 @@ export const categories: Category[] = [
 	{
 		id: "html",
 		topic: "HTML",
-		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/html.json",
+		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/dialy.json",
 		icon: "html5",
 	},
 	{
 		id: "css",
 		topic: "CSS",
-		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/css.json",
+		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/hoahoc.json",
 		icon: "css3-alt",
 	},
 	{
 		id: "sql",
 		topic: "SQL",
-		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/sql.json",
+		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/sinhhoc.json",
 		icon: "database",
 	},
 	{
 		id: "javascript",
 		topic: "JavaScript",
-		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/javascript.json",
+		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/tienganh.json",
 		icon: "js",
 	},
 	{
 		id: "programming",
 		topic: "Programming",
-		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/prog.json",
+		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/toan.json",
 		icon: "code",
 	},
 	{
 		id: "ui-design",
 		topic: "UI Design",
-		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/ui-design.json",
+		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/vatly.json",
 		icon: "paint-brush",
-	},
-	{
-		id: "dsa",
-		topic: "Data Structures & Algorithms",
-		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/dsa.json",
-		icon: "atom",
 	},
 ];
 

@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "category": "Địa lý",
+        "question": "Châu lục nào có diện tích lớn nhất thế giới?",
+        "answer": "Châu Á",
+        "options": [
+            "Châu Phi",
+            "Châu Âu",
+            "Châu Á"
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Địa lý",
+        "question": "Việt Nam nằm ở khu vực nào của châu Á?",
+        "answer": "Đông Nam Á",
+        "options": [
+            "Đông Á",
+            "Nam Á",
+            "Đông Nam Á"
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Địa lý",
+        "question": "Dãy núi nào cao nhất thế giới?",
+        "answer": "Himalaya",
+        "options": [
+            "Andes",
+            "Himalaya",
+            "Rocky"
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Địa lý",
+        "question": "Đồng bằng lớn nhất Việt Nam là gì?",
+        "answer": "Đồng bằng sông Cửu Long",
+        "options": [
+            "Đồng bằng sông Hồng",
+            "Đồng bằng sông Cửu Long",
+            "Đồng bằng Thanh Hóa"
+        ]
+    },
+    {
+        "id": 5,
+        "category": "Địa lý",
+        "question": "Hồ nước ngọt lớn nhất thế giới là gì?",
+        "answer": "Hồ Superior",
+        "options": [
+            "Hồ Baikal",
+            "Hồ Superior",
+            "Hồ Victoria"
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Địa lý",
+        "question": "Sông nào dài nhất thế giới?",
+        "answer": "Sông Nile",
+        "options": [
+            "Sông Amazon",
+            "Sông Nile",
+            "Sông Mississippi"
+        ]
+    },
+    {
+        "id": 7,
+        "category": "Địa lý",
+        "question": "Biển Đông tiếp giáp với bao nhiêu nước?",
+        "answer": "9 nước",
+        "options": [
+            "7 nước",
+            "9 nước",
+            "11 nước"
+        ]
+    },
+    {
+        "id": 8,
+        "category": "Địa lý",
+        "question": "Đặc điểm khí hậu chủ yếu của Việt Nam là gì?",
+        "answer": "Nhiệt đới ẩm gió mùa",
+        "options": [
+            "Ôn đới hải dương",
+            "Nhiệt đới ẩm gió mùa",
+            "Lục địa khô hạn"
+        ]
+    },
+    {
+        "id": 9,
+        "category": "Địa lý",
+        "question": "Nước nào có diện tích lớn nhất thế giới?",
+        "answer": "Nga",
+        "options": [
+            "Mỹ",
+            "Trung Quốc",
+            "Nga"
+        ]
+    },
+    {
+        "id": 10,
+        "category": "Địa lý",
+        "question": "Hà Nội nằm ở vùng kinh tế nào của Việt Nam?",
+        "answer": "Đồng bằng sông Hồng",
+        "options": [
+            "Trung du và miền núi Bắc Bộ",
+            "Đồng bằng sông Hồng",
+            "Duyên hải Nam Trung Bộ"
+        ]
+    },
+    {
+        "id": 11,
+        "category": "Địa lý",
+        "question": "Khu vực nào có nhiều núi lửa hoạt động mạnh nhất thế giới?",
+        "answer": "Vành đai lửa Thái Bình Dương",
+        "options": [
+            "Đông Phi",
+            "Đồng bằng Amazon",
+            "Vành đai lửa Thái Bình Dương"
+        ]
+    },
+    {
+        "id": 12,
+        "category": "Địa lý",
+        "question": "Thành phố nào lớn nhất Việt Nam về dân số?",
+        "answer": "TP. Hồ Chí Minh",
+        "options": [
+            "Hà Nội",
+            "TP. Hồ Chí Minh",
+            "Đà Nẵng"
+        ]
+    },
+    {
+        "id": 13,
+        "category": "Địa lý",
+        "question": "Châu lục nào có dân số đông nhất?",
+        "answer": "Châu Á",
+        "options": [
+            "Châu Mỹ",
+            "Châu Phi",
+            "Châu Á"
+        ]
+    },
+    {
+        "id": 14,
+        "category": "Địa lý",
+        "question": "Sông Mê Kông chảy qua bao nhiêu quốc gia?",
+        "answer": "6 quốc gia",
+        "options": [
+            "4 quốc gia",
+            "6 quốc gia",
+            "8 quốc gia"
+        ]
+    },
+    {
+        "id": 15,
+        "category": "Địa lý",
+        "question": "Quốc gia nào có dân số lớn thứ hai thế giới?",
+        "answer": "Ấn Độ",
+        "options": [
+            "Mỹ",
+            "Ấn Độ",
+            "Trung Quốc"
+        ]
+    },
+    {
+        "id": 16,
+        "category": "Địa lý",
+        "question": "Hệ thống núi nào dài nhất thế giới?",
+        "answer": "Andes",
+        "options": [
+            "Himalaya",
+            "Andes",
+            "Alps"
+        ]
+    },
+    {
+        "id": 17,
+        "category": "Địa lý",
+        "question": "Vịnh Hạ Long thuộc tỉnh nào?",
+        "answer": "Quảng Ninh",
+        "options": [
+            "Hải Phòng",
+            "Quảng Ninh",
+            "Thanh Hóa"
+        ]
+    },
+    {
+        "id": 18,
+        "category": "Địa lý",
+        "question": "Sa mạc lớn nhất thế giới là gì?",
+        "answer": "Sa mạc Sahara",
+        "options": [
+            "Sa mạc Gobi",
+            "Sa mạc Kalahari",
+            "Sa mạc Sahara"
+        ]
+    },
+    {
+        "id": 19,
+        "category": "Địa lý",
+        "question": "Tỉnh nào có diện tích lớn nhất Việt Nam?",
+        "answer": "Nghệ An",
+        "options": [
+            "Nghệ An",
+            "Gia Lai",
+            "Thanh Hóa"
+        ]
+    },
+    {
+        "id": 20,
+        "category": "Địa lý",
+        "question": "Lục địa nào có diện tích nhỏ nhất?",
+        "answer": "Châu Úc",
+        "options": [
+            "Châu Phi",
+            "Châu Nam Cực",
+            "Châu Úc"
+        ]
+    }
+]

@@ -1,0 +1,277 @@
+[
+    {
+        "id": 1,
+        "category": "Vật lý",
+        "question": "Đơn vị đo lực trong hệ SI là gì?",
+        "answer": "Newton (N)",
+        "options": [
+            "Newton (N)",
+            "Joule (J)",
+            "Watt (W)"
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Vật lý",
+        "question": "Công thức tính áp suất là gì?",
+        "answer": "p = F / S",
+        "options": [
+            "p = F / S",
+            "p = m / V",
+            "p = F * S"
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Vật lý",
+        "question": "Lực ma sát xuất hiện khi nào?",
+        "answer": "Khi hai vật tiếp xúc và có xu hướng trượt lên nhau",
+        "options": [
+            "Khi hai vật tiếp xúc và có xu hướng trượt lên nhau",
+            "Khi một vật chuyển động thẳng đều",
+            "Khi một vật rơi tự do"
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Vật lý",
+        "question": "Công thức tính công cơ học là gì?",
+        "answer": "A = F * s * cos(α)",
+        "options": [
+            "A = F * s",
+            "A = F * s * cos(α)",
+            "A = m * g * h"
+        ]
+    },
+    {
+        "id": 5,
+        "category": "Vật lý",
+        "question": "Đơn vị của công suất là gì?",
+        "answer": "Watt (W)",
+        "options": [
+            "Joule (J)",
+            "Newton (N)",
+            "Watt (W)"
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Vật lý",
+        "question": "Định luật bảo toàn cơ năng phát biểu như thế nào?",
+        "answer": "Cơ năng của một vật trong hệ kín luôn không đổi",
+        "options": [
+            "Cơ năng của một vật trong hệ kín luôn không đổi",
+            "Cơ năng luôn giảm dần theo thời gian",
+            "Cơ năng phụ thuộc vào khối lượng vật"
+        ]
+    },
+    {
+        "id": 7,
+        "category": "Vật lý",
+        "question": "Khi một vật nổi trên mặt nước, lực đẩy Ác-si-mét có giá trị như thế nào?",
+        "answer": "Bằng trọng lực của vật",
+        "options": [
+            "Nhỏ hơn trọng lực của vật",
+            "Bằng trọng lực của vật",
+            "Lớn hơn trọng lực của vật"
+        ]
+    },
+    {
+        "id": 8,
+        "category": "Vật lý",
+        "question": "Công thức tính nhiệt lượng là gì?",
+        "answer": "Q = m * c * Δt",
+        "options": [
+            "Q = m * c * Δt",
+            "Q = m * g * h",
+            "Q = P * t"
+        ]
+    },
+    {
+        "id": 9,
+        "category": "Vật lý",
+        "question": "Đơn vị của công trong hệ SI là gì?",
+        "answer": "Joule (J)",
+        "options": [
+            "Newton (N)",
+            "Joule (J)",
+            "Watt (W)"
+        ]
+    },
+    {
+        "id": 10,
+        "category": "Vật lý",
+        "question": "Nhiệt độ sôi của nước ở áp suất tiêu chuẩn là bao nhiêu?",
+        "answer": "100°C",
+        "options": [
+            "0°C",
+            "100°C",
+            "50°C"
+        ]
+    },
+    {
+        "id": 11,
+        "category": "Vật lý",
+        "question": "Sự sôi là quá trình gì?",
+        "answer": "Chất lỏng chuyển sang thể khí ở toàn bộ bề mặt chất lỏng",
+        "options": [
+            "Chất rắn chuyển sang chất lỏng",
+            "Chất lỏng chuyển sang thể khí ở toàn bộ bề mặt chất lỏng",
+            "Chất lỏng bay hơi ở bề mặt"
+        ]
+    },
+    {
+        "id": 12,
+        "category": "Vật lý",
+        "question": "Định luật Jun-Lenz phát biểu như thế nào?",
+        "answer": "Nhiệt lượng tỏa ra trên dây dẫn tỷ lệ thuận với bình phương cường độ dòng điện",
+        "options": [
+            "Nhiệt lượng tỏa ra trên dây dẫn tỷ lệ thuận với bình phương cường độ dòng điện",
+            "Công suất tiêu thụ tỷ lệ nghịch với điện trở",
+            "Công suất tiêu thụ tỷ lệ thuận với điện áp"
+        ]
+    },
+    {
+        "id": 13,
+        "category": "Vật lý",
+        "question": "Vận tốc của ánh sáng trong chân không xấp xỉ bằng bao nhiêu?",
+        "answer": "3 x 10^8 m/s",
+        "options": [
+            "3 x 10^6 m/s",
+            "3 x 10^7 m/s",
+            "3 x 10^8 m/s"
+        ]
+    },
+    {
+        "id": 14,
+        "category": "Vật lý",
+        "question": "Dụng cụ nào dùng để đo lực?",
+        "answer": "Lực kế",
+        "options": [
+            "Nhiệt kế",
+            "Lực kế",
+            "Đồng hồ bấm giờ"
+        ]
+    },
+    {
+        "id": 15,
+        "category": "Vật lý",
+        "question": "Công suất được tính bằng công thức nào?",
+        "answer": "P = A / t",
+        "options": [
+            "P = A / t",
+            "P = F * s",
+            "P = m * g"
+        ]
+    },
+    {
+        "id": 16,
+        "category": "Vật lý",
+        "question": "Lực hấp dẫn tác dụng lên một vật còn được gọi là gì?",
+        "answer": "Trọng lực",
+        "options": [
+            "Trọng lực",
+            "Lực đàn hồi",
+            "Lực ma sát"
+        ]
+    },
+    {
+        "id": 17,
+        "category": "Vật lý",
+        "question": "Khi một vật rơi tự do, gia tốc của nó bằng bao nhiêu?",
+        "answer": "9,8 m/s²",
+        "options": [
+            "9,8 m/s²",
+            "8,9 m/s²",
+            "10,2 m/s²"
+        ]
+    },
+    {
+        "id": 18,
+        "category": "Vật lý",
+        "question": "Ai là người phát minh ra định luật vạn vật hấp dẫn?",
+        "answer": "Isaac Newton",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei"
+        ]
+    },
+    {
+        "id": 19,
+        "category": "Vật lý",
+        "question": "Tốc độ truyền âm trong không khí khoảng bao nhiêu?",
+        "answer": "340 m/s",
+        "options": [
+            "340 m/s",
+            "300 m/s",
+            "400 m/s"
+        ]
+    },
+    {
+        "id": 20,
+        "category": "Vật lý",
+        "question": "Nhiệt lượng do một vật thu vào hoặc tỏa ra phụ thuộc vào những yếu tố nào?",
+        "answer": "Khối lượng, nhiệt dung riêng và độ thay đổi nhiệt độ",
+        "options": [
+            "Khối lượng, nhiệt dung riêng và độ thay đổi nhiệt độ",
+            "Khối lượng và thể tích",
+            "Nhiệt dung riêng và áp suất"
+        ]
+    },
+    {
+        "id": 21,
+        "category": "Vật lý",
+        "question": "Năng lượng không thể tự sinh ra hoặc mất đi, chỉ có thể chuyển hóa từ dạng này sang dạng khác. Đây là nội dung của định luật nào?",
+        "answer": "Định luật bảo toàn năng lượng",
+        "options": [
+            "Định luật bảo toàn năng lượng",
+            "Định luật bảo toàn khối lượng",
+            "Định luật vạn vật hấp dẫn"
+        ]
+    },
+    {
+        "id": 22,
+        "category": "Vật lý",
+        "question": "Lực đàn hồi của lò xo tuân theo định luật nào?",
+        "answer": "Định luật Hooke",
+        "options": [
+            "Định luật Newton",
+            "Định luật Hooke",
+            "Định luật Ohm"
+        ]
+    },
+    {
+        "id": 23,
+        "category": "Vật lý",
+        "question": "Hiện tượng nào chứng tỏ âm thanh có thể truyền qua chất rắn?",
+        "answer": "Nghe tiếng gõ khi áp tai vào đường ray",
+        "options": [
+            "Nghe tiếng gõ khi áp tai vào đường ray",
+            "Sóng truyền trên mặt nước",
+            "Bóng đèn phát sáng"
+        ]
+    },
+    {
+        "id": 24,
+        "category": "Vật lý",
+        "question": "Hiện tượng khuếch tán xảy ra nhanh nhất trong môi trường nào?",
+        "answer": "Khí",
+        "options": [
+            "Rắn",
+            "Lỏng",
+            "Khí"
+        ]
+    },
+    {
+        "id": 25,
+        "category": "Vật lý",
+        "question": "Trong các cách truyền nhiệt, cách nào không cần môi trường vật chất?",
+        "answer": "Bức xạ nhiệt",
+        "options": [
+            "Dẫn nhiệt",
+            "Đối lưu",
+            "Bức xạ nhiệt"
+        ]
+    }
+]

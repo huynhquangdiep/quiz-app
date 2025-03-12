@@ -1,0 +1,277 @@
+[
+    {
+        "id": 1,
+        "category": "Sinh học",
+        "question": "Bộ phận nào của tế bào đóng vai trò điều khiển mọi hoạt động sống?",
+        "answer": "Nhân tế bào",
+        "options": [
+            "Màng tế bào",
+            "Nhân tế bào",
+            "Ti thể"
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Sinh học",
+        "question": "Loại mô nào có chức năng co dãn, giúp cơ thể vận động?",
+        "answer": "Mô cơ",
+        "options": [
+            "Mô liên kết",
+            "Mô cơ",
+            "Mô thần kinh"
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Sinh học",
+        "question": "Hệ cơ quan nào chịu trách nhiệm vận chuyển máu trong cơ thể?",
+        "answer": "Hệ tuần hoàn",
+        "options": [
+            "Hệ tiêu hóa",
+            "Hệ tuần hoàn",
+            "Hệ bài tiết"
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Sinh học",
+        "question": "Bộ phận nào của hệ tiêu hóa có chức năng hấp thụ chất dinh dưỡng?",
+        "answer": "Ruột non",
+        "options": [
+            "Dạ dày",
+            "Ruột non",
+            "Ruột già"
+        ]
+    },
+    {
+        "id": 5,
+        "category": "Sinh học",
+        "question": "Hệ cơ quan nào đảm nhiệm chức năng trao đổi khí?",
+        "answer": "Hệ hô hấp",
+        "options": [
+            "Hệ tuần hoàn",
+            "Hệ hô hấp",
+            "Hệ tiêu hóa"
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Sinh học",
+        "question": "Cơ quan nào lọc máu và tạo nước tiểu?",
+        "answer": "Thận",
+        "options": [
+            "Tim",
+            "Phổi",
+            "Thận"
+        ]
+    },
+    {
+        "id": 7,
+        "category": "Sinh học",
+        "question": "Chất nào cung cấp năng lượng chính cho cơ thể?",
+        "answer": "Glucose",
+        "options": [
+            "Protein",
+            "Glucose",
+            "Chất béo"
+        ]
+    },
+    {
+        "id": 8,
+        "category": "Sinh học",
+        "question": "Bộ phận nào của hệ thần kinh trung ương điều khiển suy nghĩ và trí nhớ?",
+        "answer": "Não bộ",
+        "options": [
+            "Tủy sống",
+            "Não bộ",
+            "Hạch thần kinh"
+        ]
+    },
+    {
+        "id": 9,
+        "category": "Sinh học",
+        "question": "Loại tế bào nào trong máu có chức năng vận chuyển oxy?",
+        "answer": "Hồng cầu",
+        "options": [
+            "Bạch cầu",
+            "Hồng cầu",
+            "Tiểu cầu"
+        ]
+    },
+    {
+        "id": 10,
+        "category": "Sinh học",
+        "question": "Vitamin nào quan trọng cho sự đông máu?",
+        "answer": "Vitamin K",
+        "options": [
+            "Vitamin A",
+            "Vitamin K",
+            "Vitamin C"
+        ]
+    },
+    {
+        "id": 11,
+        "category": "Sinh học",
+        "question": "Cơ quan nào trong cơ thể tiết insulin?",
+        "answer": "Tuyến tụy",
+        "options": [
+            "Tuyến giáp",
+            "Tuyến tụy",
+            "Tuyến yên"
+        ]
+    },
+    {
+        "id": 12,
+        "category": "Sinh học",
+        "question": "Cơ quan nào giúp bảo vệ cơ thể khỏi vi khuẩn và virus?",
+        "answer": "Hệ miễn dịch",
+        "options": [
+            "Hệ hô hấp",
+            "Hệ miễn dịch",
+            "Hệ bài tiết"
+        ]
+    },
+    {
+        "id": 13,
+        "category": "Sinh học",
+        "question": "Quá trình nào giúp cơ thể chuyển đổi thức ăn thành năng lượng?",
+        "answer": "Hô hấp tế bào",
+        "options": [
+            "Hô hấp tế bào",
+            "Tiêu hóa",
+            "Bài tiết"
+        ]
+    },
+    {
+        "id": 14,
+        "category": "Sinh học",
+        "question": "Xương nào dài nhất trong cơ thể con người?",
+        "answer": "Xương đùi",
+        "options": [
+            "Xương cánh tay",
+            "Xương đùi",
+            "Xương chày"
+        ]
+    },
+    {
+        "id": 15,
+        "category": "Sinh học",
+        "question": "Cơ quan nào là trung tâm điều khiển hoạt động của cơ thể?",
+        "answer": "Não",
+        "options": [
+            "Tim",
+            "Não",
+            "Phổi"
+        ]
+    },
+    {
+        "id": 16,
+        "category": "Sinh học",
+        "question": "Loại khớp nào giúp cánh tay cử động theo nhiều hướng?",
+        "answer": "Khớp cầu",
+        "options": [
+            "Khớp bản lề",
+            "Khớp cầu",
+            "Khớp trượt"
+        ]
+    },
+    {
+        "id": 17,
+        "category": "Sinh học",
+        "question": "Bộ phận nào của hệ tiêu hóa sản xuất enzyme tiêu hóa thức ăn?",
+        "answer": "Tuyến tụy",
+        "options": [
+            "Gan",
+            "Tuyến tụy",
+            "Ruột già"
+        ]
+    },
+    {
+        "id": 18,
+        "category": "Sinh học",
+        "question": "Bệnh nào sau đây là do thiếu insulin?",
+        "answer": "Tiểu đường",
+        "options": [
+            "Sốt xuất huyết",
+            "Tiểu đường",
+            "Loãng xương"
+        ]
+    },
+    {
+        "id": 19,
+        "category": "Sinh học",
+        "question": "Cấu trúc nào trong phổi giúp trao đổi khí?",
+        "answer": "Phế nang",
+        "options": [
+            "Khí quản",
+            "Phế nang",
+            "Động mạch"
+        ]
+    },
+    {
+        "id": 20,
+        "category": "Sinh học",
+        "question": "Dịch tiêu hóa nào giúp tiêu hóa chất béo?",
+        "answer": "Mật",
+        "options": [
+            "Mật",
+            "Nước bọt",
+            "Dịch vị"
+        ]
+    },
+    {
+        "id": 21,
+        "category": "Sinh học",
+        "question": "Bệnh nào sau đây lây qua đường hô hấp?",
+        "answer": "Cúm",
+        "options": [
+            "Tiểu đường",
+            "Cúm",
+            "Loãng xương"
+        ]
+    },
+    {
+        "id": 22,
+        "category": "Sinh học",
+        "question": "Huyết áp là gì?",
+        "answer": "Áp lực của máu lên thành động mạch",
+        "options": [
+            "Lượng máu trong cơ thể",
+            "Áp lực của máu lên thành động mạch",
+            "Tốc độ lưu thông của máu"
+        ]
+    },
+    {
+        "id": 23,
+        "category": "Sinh học",
+        "question": "Chất nào giúp vận chuyển oxy trong máu?",
+        "answer": "Hemoglobin",
+        "options": [
+            "Glucose",
+            "Hemoglobin",
+            "Cholesterol"
+        ]
+    },
+    {
+        "id": 24,
+        "category": "Sinh học",
+        "question": "Thành phần nào của máu giúp đông máu?",
+        "answer": "Tiểu cầu",
+        "options": [
+            "Bạch cầu",
+            "Hồng cầu",
+            "Tiểu cầu"
+        ]
+    },
+    {
+        "id": 25,
+        "category": "Sinh học",
+        "question": "Loại xương nào bảo vệ não?",
+        "answer": "Xương sọ",
+        "options": [
+            "Xương sườn",
+            "Xương đùi",
+            "Xương sọ"
+        ]
+    }
+]

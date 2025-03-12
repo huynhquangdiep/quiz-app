@@ -1,0 +1,244 @@
+[
+    {
+        "id": 1,
+        "category": "Toán",
+        "question": "Kết quả của biểu thức (x + 2)(x - 2) là gì?",
+        "answer": "x^2 - 4",
+        "options": [
+            "x^2 - 4",
+            "x^2 + 4",
+            "x^2 - 2x + 4"
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Toán",
+        "question": "Phân tích đa thức x^2 + 6x + 9 thành nhân tử?",
+        "answer": "(x + 3)(x + 3)",
+        "options": [
+            "(x - 3)(x - 3)",
+            "(x + 3)(x + 3)",
+            "(x + 2)(x + 3)"
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Toán",
+        "question": "Giá trị của (2x - 3)^2 khi x = 2 là bao nhiêu?",
+        "answer": "25",
+        "options": [
+            "1",
+            "4",
+            "25"
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Toán",
+        "question": "Rút gọn phân thức (x^2 - 9) / (x - 3)?",
+        "answer": "x + 3",
+        "options": [
+            "x + 3",
+            "x - 3",
+            "x + 9"
+        ]
+    },
+    {
+        "id": 5,
+        "category": "Toán",
+        "question": "Điều kiện xác định của phân thức 2 / (x - 5) là gì?",
+        "answer": "x ≠ 5",
+        "options": [
+            "x ≠ 2",
+            "x ≠ 0",
+            "x ≠ 5"
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Toán",
+        "question": "Giải phương trình: 3x - 5 = 10.",
+        "answer": "x = 5",
+        "options": [
+            "x = 5",
+            "x = 3",
+            "x = -5"
+        ]
+    },
+    {
+        "id": 7,
+        "category": "Toán",
+        "question": "Phương trình 2x + 3 = 2x + 3 có bao nhiêu nghiệm?",
+        "answer": "Vô số nghiệm",
+        "options": [
+            "Một nghiệm",
+            "Vô số nghiệm",
+            "Vô nghiệm"
+        ]
+    },
+    {
+        "id": 8,
+        "category": "Toán",
+        "question": "Hình nào có hai đường chéo vuông góc với nhau?",
+        "answer": "Hình thoi",
+        "options": [
+            "Hình chữ nhật",
+            "Hình thoi",
+            "Hình bình hành"
+        ]
+    },
+    {
+        "id": 9,
+        "category": "Toán",
+        "question": "Tổng các góc trong của một tứ giác là bao nhiêu?",
+        "answer": "360°",
+        "options": [
+            "180°",
+            "270°",
+            "360°"
+        ]
+    },
+    {
+        "id": 10,
+        "category": "Toán",
+        "question": "Đường chéo của hình chữ nhật có tính chất gì?",
+        "answer": "Bằng nhau",
+        "options": [
+            "Bằng nhau",
+            "Vuông góc nhau",
+            "Không cắt nhau"
+        ]
+    },
+    {
+        "id": 11,
+        "category": "Toán",
+        "question": "Trong tam giác vuông có hai cạnh góc vuông lần lượt là 3 cm và 4 cm, cạnh huyền có độ dài bao nhiêu?",
+        "answer": "5 cm",
+        "options": [
+            "5 cm",
+            "6 cm",
+            "7 cm"
+        ]
+    },
+    {
+        "id": 12,
+        "category": "Toán",
+        "question": "Cho tam giác vuông ABC có AB = 6 cm, AC = 8 cm. Độ dài cạnh BC là bao nhiêu?",
+        "answer": "10 cm",
+        "options": [
+            "10 cm",
+            "12 cm",
+            "14 cm"
+        ]
+    },
+    {
+        "id": 13,
+        "category": "Toán",
+        "question": "Diện tích hình chữ nhật có chiều dài 5 cm, chiều rộng 3 cm là bao nhiêu?",
+        "answer": "15 cm²",
+        "options": [
+            "10 cm²",
+            "15 cm²",
+            "20 cm²"
+        ]
+    },
+    {
+        "id": 14,
+        "category": "Toán",
+        "question": "Thể tích của hình lập phương có cạnh 4 cm là bao nhiêu?",
+        "answer": "64 cm³",
+        "options": [
+            "16 cm³",
+            "32 cm³",
+            "64 cm³"
+        ]
+    },
+    {
+        "id": 15,
+        "category": "Toán",
+        "question": "Tập nghiệm của bất phương trình x - 3 > 2 là gì?",
+        "answer": "x > 5",
+        "options": [
+            "x > 1",
+            "x > 3",
+            "x > 5"
+        ]
+    },
+    {
+        "id": 16,
+        "category": "Toán",
+        "question": "Giá trị của | -5 | là bao nhiêu?",
+        "answer": "5",
+        "options": [
+            "-5",
+            "0",
+            "5"
+        ]
+    },
+    {
+        "id": 17,
+        "category": "Toán",
+        "question": "Tổng các số nguyên liên tiếp từ 1 đến 10 là bao nhiêu?",
+        "answer": "55",
+        "options": [
+            "45",
+            "50",
+            "55"
+        ]
+    },
+    {
+        "id": 18,
+        "category": "Toán",
+        "question": "Nếu a + b = 5 và ab = 6, thì giá trị của a² + b² là bao nhiêu?",
+        "answer": "19",
+        "options": [
+            "7",
+            "13",
+            "19"
+        ]
+    },
+    {
+        "id": 19,
+        "category": "Toán",
+        "question": "Bội chung nhỏ nhất của 6 và 8 là bao nhiêu?",
+        "answer": "24",
+        "options": [
+            "12",
+            "24",
+            "36"
+        ]
+    },
+    {
+        "id": 20,
+        "category": "Toán",
+        "question": "Hình lập phương có tổng diện tích các mặt là 150 cm². Cạnh của hình lập phương là bao nhiêu?",
+        "answer": "5 cm",
+        "options": [
+            "4 cm",
+            "5 cm",
+            "6 cm"
+        ]
+    },
+    {
+        "id": 21,
+        "category": "Toán",
+        "question": "Kết quả của 3^4 là bao nhiêu?",
+        "answer": "81",
+        "options": [
+            "27",
+            "64",
+            "81"
+        ]
+    },
+    {
+        "id": 22,
+        "category": "Toán",
+        "question": "Phương trình x² - 5x + 6 = 0 có nghiệm là gì?",
+        "answer": "x = 2 hoặc x = 3",
+        "options": [
+            "x = 2 hoặc x = 3",
+            "x = 1 hoặc x = 6",
+            "x = -2 hoặc x = -3"
+        ]
+    }
+]

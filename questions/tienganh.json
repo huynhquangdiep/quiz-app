@@ -1,0 +1,277 @@
+[
+    {
+        "id": 1,
+        "category": "Tiếng Anh",
+        "question": "What is the past tense of 'go'?",
+        "answer": "went",
+        "options": [
+            "goes",
+            "gone",
+            "went"
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Tiếng Anh",
+        "question": "Which word is a synonym of 'happy'?",
+        "answer": "joyful",
+        "options": [
+            "sad",
+            "angry",
+            "joyful"
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Tiếng Anh",
+        "question": "How do you say 'con mèo' in English?",
+        "answer": "cat",
+        "options": [
+            "dog",
+            "cat",
+            "bird"
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Tiếng Anh",
+        "question": "Which article is used before a vowel sound?",
+        "answer": "an",
+        "options": [
+            "a",
+            "an",
+            "the"
+        ]
+    },
+    {
+        "id": 5,
+        "category": "Tiếng Anh",
+        "question": "What is the plural form of 'child'?",
+        "answer": "children",
+        "options": [
+            "childs",
+            "child",
+            "children"
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Tiếng Anh",
+        "question": "Which preposition is correct in this sentence: 'I am interested ___ music'?",
+        "answer": "in",
+        "options": [
+            "on",
+            "at",
+            "in"
+        ]
+    },
+    {
+        "id": 7,
+        "category": "Tiếng Anh",
+        "question": "Which word means the opposite of 'big'?",
+        "answer": "small",
+        "options": [
+            "small",
+            "tall",
+            "fast"
+        ]
+    },
+    {
+        "id": 8,
+        "category": "Tiếng Anh",
+        "question": "What does 'she is cooking' mean?",
+        "answer": "Cô ấy đang nấu ăn",
+        "options": [
+            "Cô ấy đang nấu ăn",
+            "Cô ấy đã nấu ăn",
+            "Cô ấy thích nấu ăn"
+        ]
+    },
+    {
+        "id": 9,
+        "category": "Tiếng Anh",
+        "question": "Which of these is a verb?",
+        "answer": "run",
+        "options": [
+            "happy",
+            "quickly",
+            "run"
+        ]
+    },
+    {
+        "id": 10,
+        "category": "Tiếng Anh",
+        "question": "What is the superlative form of 'good'?",
+        "answer": "best",
+        "options": [
+            "better",
+            "gooder",
+            "best"
+        ]
+    },
+    {
+        "id": 11,
+        "category": "Tiếng Anh",
+        "question": "What is the opposite of 'hot'?",
+        "answer": "cold",
+        "options": [
+            "warm",
+            "cold",
+            "cool"
+        ]
+    },
+    {
+        "id": 12,
+        "category": "Tiếng Anh",
+        "question": "Which word is a pronoun?",
+        "answer": "they",
+        "options": [
+            "happy",
+            "they",
+            "run"
+        ]
+    },
+    {
+        "id": 13,
+        "category": "Tiếng Anh",
+        "question": "What does 'library' mean?",
+        "answer": "Thư viện",
+        "options": [
+            "Trường học",
+            "Nhà hàng",
+            "Thư viện"
+        ]
+    },
+    {
+        "id": 14,
+        "category": "Tiếng Anh",
+        "question": "Which word is spelled correctly?",
+        "answer": "beautiful",
+        "options": [
+            "beautifull",
+            "beutiful",
+            "beautiful"
+        ]
+    },
+    {
+        "id": 15,
+        "category": "Tiếng Anh",
+        "question": "Which is a type of fruit?",
+        "answer": "banana",
+        "options": [
+            "carrot",
+            "banana",
+            "potato"
+        ]
+    },
+    {
+        "id": 16,
+        "category": "Tiếng Anh",
+        "question": "Which word is a noun?",
+        "answer": "table",
+        "options": [
+            "quickly",
+            "run",
+            "table"
+        ]
+    },
+    {
+        "id": 17,
+        "category": "Tiếng Anh",
+        "question": "What does 'doctor' mean?",
+        "answer": "Bác sĩ",
+        "options": [
+            "Giáo viên",
+            "Bác sĩ",
+            "Cảnh sát"
+        ]
+    },
+    {
+        "id": 18,
+        "category": "Tiếng Anh",
+        "question": "What is the past tense of 'see'?",
+        "answer": "saw",
+        "options": [
+            "seen",
+            "saw",
+            "see"
+        ]
+    },
+    {
+        "id": 19,
+        "category": "Tiếng Anh",
+        "question": "Which sentence is correct?",
+        "answer": "She goes to school every day.",
+        "options": [
+            "She go to school every day.",
+            "She goes to school every day.",
+            "She going to school every day."
+        ]
+    },
+    {
+        "id": 20,
+        "category": "Tiếng Anh",
+        "question": "What does 'hungry' mean?",
+        "answer": "Đói",
+        "options": [
+            "Khát",
+            "Đói",
+            "Buồn"
+        ]
+    },
+    {
+        "id": 21,
+        "category": "Tiếng Anh",
+        "question": "Which of these is a question word?",
+        "answer": "where",
+        "options": [
+            "where",
+            "happy",
+            "run"
+        ]
+    },
+    {
+        "id": 22,
+        "category": "Tiếng Anh",
+        "question": "What is the opposite of 'early'?",
+        "answer": "late",
+        "options": [
+            "late",
+            "fast",
+            "soon"
+        ]
+    },
+    {
+        "id": 23,
+        "category": "Tiếng Anh",
+        "question": "What does 'beautiful' mean?",
+        "answer": "Đẹp",
+        "options": [
+            "Xấu",
+            "Đẹp",
+            "Già"
+        ]
+    },
+    {
+        "id": 24,
+        "category": "Tiếng Anh",
+        "question": "Which word means the same as 'big'?",
+        "answer": "large",
+        "options": [
+            "large",
+            "tiny",
+            "thin"
+        ]
+    },
+    {
+        "id": 25,
+        "category": "Tiếng Anh",
+        "question": "How do you say 'cảm ơn' in English?",
+        "answer": "thank you",
+        "options": [
+            "please",
+            "sorry",
+            "thank you"
+        ]
+    }
+]
