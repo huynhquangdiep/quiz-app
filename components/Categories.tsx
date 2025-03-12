@@ -14,16 +14,8 @@ export default function Categories({
 }: CategoryProps) {
 	
 	const handleCategories = (topic: string) => {
-		if (userCategories.includes(topic)) {
-			const newSelection = userCategories.filter((item) => item !== topic);
-			setUserCategories(newSelection);
-		} else {
-			if (userCategories.length <4) {
-				const newSelection = [...userCategories, topic];
-				setUserCategories(newSelection);
-			}
-		}
-	};
+		setUserCategories(userCategories.includes(topic) ? [] : [topic]);
+	 };
 
 	return (
 		<Pressable

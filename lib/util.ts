@@ -91,7 +91,7 @@ export const getQuestions = async (endpoints: string[]) => {
 		const data = await Promise.all(
 			responses.map(async (response) => {
 				const jsonResponse = await response.json();
-				const shuffledData = jsonResponse.questions
+				const shuffledData = jsonResponse
 					.sort(() => Math.random() - 0.5)
 					.slice(0, 10);
 				return shuffledData;

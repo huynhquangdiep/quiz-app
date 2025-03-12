@@ -101,7 +101,7 @@ export default function TestScreen() {
 				</View>
 
 				<Text className='text-lg mb-3 text-orange-600 font-bold'>
-					Select your answer
+					Chọn câu trả lời
 				</Text>
 				<View className='flex items-center mb-4'>
 					{questions[count]?.options.map((item, index) => (
@@ -125,7 +125,7 @@ export default function TestScreen() {
 							className='bg-gray-300 shadow-sm p-4 rounded-xl w-2/3'
 						>
 							<Text className='font-bold text-xl text-center'>
-								Generating your score...
+								Đang chấm điểm...
 							</Text>
 						</Pressable>
 					</View>
@@ -135,14 +135,14 @@ export default function TestScreen() {
 							onPress={handleSkip}
 							className='bg-orange-300 p-4 rounded-xl w-1/3'
 						>
-							<Text className='font-bold text-xl text-center'>SKIP</Text>
+							<Text className='font-bold text-xl text-center'>Bỏ Qua</Text>
 						</Pressable>
 						<Pressable
 							onPress={handleSave}
 							className='bg-green-300 p-4 rounded-xl w-1/3'
 						>
 							<Text className='font-bold text-xl text-center'>
-								{count === questions.length - 1 ? "Get Result" : "SAVE"}
+								{count === questions.length - 1 ? "Xong" : "Chọn"}
 							</Text>
 						</Pressable>
 					</View>
