@@ -63,7 +63,7 @@ export default function HomeScreen() {
 					</Text>
 
 					<Text className='text-lg'>
-						Welcome {returnFirstSixWords(session?.user.email)}
+						Chào mừng {returnFirstSixWords(session?.user.email)}
 					</Text>
 				</View>
 
@@ -86,14 +86,14 @@ export default function HomeScreen() {
 					onPress={() => handleStartTest()}
 				>
 					<Text className='text-xl font-bold text-orange-50'>
-						{loading ? "Loading questions..." : "START TEST"}
+						{loading ? "Tạo bài kiểm tra" : "Bắt đầu"}
 					</Text>
 				</Pressable>
 			)}
 
 			<View className='w-full flex-1'>
 				<Text className='text-xl font-bold text-orange-500 mb-4'>
-					Available Categories
+					Môn thi
 				</Text>
 				<FlatList
 					data={categories}

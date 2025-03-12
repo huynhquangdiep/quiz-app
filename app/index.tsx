@@ -57,17 +57,17 @@ export default function LoginScreen() {
 							className='mb-4'
 						/>
 						<Text className='text-3xl mb-4 font-bold text-white text-center'>
-							Log in
+							Đăng Nhập
 						</Text>
 					</View>
 
-					<Text className='text-lg text-gray-200'>Email Address</Text>
+					<Text className='text-lg text-gray-200'>Email</Text>
 					<TextInput
 						className='w-full border-b-[1px] py-4 rounded-md mb-3 text-white font-bold'
 						value={email}
 						onChangeText={setEmail}
 					/>
-					<Text className='text-lg text-gray-200'>Password</Text>
+					<Text className='text-lg text-gray-200'>Mật khẩu</Text>
 					<TextInput
 						className='w-full border-b-[1px] py-4 rounded-md mb-3 text-white font-bold'
 						secureTextEntry
@@ -84,9 +84,9 @@ export default function LoginScreen() {
 						</Text>
 					</Pressable>
 					<Text className='text-center mt-2 text-orange-200'>
-						Don't have an account?{" "}
+						Bạn chưa có tài khoản?{" "}
 						<Link href='/register'>
-							<Text className='text-white'>Register</Text>
+							<Text className='text-white'>Đăng ký</Text>
 						</Link>
 					</Text>
 				</View>

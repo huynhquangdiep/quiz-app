@@ -18,38 +18,38 @@ export interface Question {
 
 export const categories: Category[] = [
 	{
-		id: "html",
-		topic: "HTML",
+		id: "dia-ly",
+		topic: "Địa Lý",
 		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/dialy.json",
 		icon: "html5",
 	},
 	{
-		id: "css",
-		topic: "CSS",
+		id: "hoa-hoc",
+		topic: "Hóa Học",
 		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/hoahoc.json",
 		icon: "css3-alt",
 	},
 	{
-		id: "sql",
-		topic: "SQL",
+		id: "sinh-hoc",
+		topic: "Sinh Học",
 		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/sinhhoc.json",
 		icon: "database",
 	},
 	{
-		id: "javascript",
-		topic: "JavaScript",
+		id: "tieng-anh",
+		topic: "Tiếng Anh",
 		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/tienganh.json",
 		icon: "js",
 	},
 	{
-		id: "programming",
-		topic: "Programming",
+		id: "toan",
+		topic: "Toán",
 		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/toan.json",
 		icon: "code",
 	},
 	{
-		id: "ui-design",
-		topic: "UI Design",
+		id: "vat-ly",
+		topic: "Vật Lý",
 		url: "https://raw.githubusercontent.com/huynhquangdiep/quiz-app/main/questions/vatly.json",
 		icon: "paint-brush",
 	},
@@ -74,13 +74,13 @@ export const getGreeting = (): { greeting: string; day: boolean } => {
 	const currentHour = currentDate.getHours();
 
 	if (currentHour >= 5 && currentHour < 12) {
-		return { greeting: "Good morning ", day: true };
+		return { greeting: "Chào buổi sáng", day: true };
 	} else if (currentHour >= 12 && currentHour < 17) {
-		return { greeting: "Good afternoon ", day: true };
+		return { greeting: "Chào buổi chiều", day: true };
 	} else if (currentHour >= 17 && currentHour < 21) {
-		return { greeting: "Good evening ", day: true };
+		return { greeting: "Chào buổi tối", day: true };
 	} else {
-		return { greeting: "Good night ", day: false };
+		return { greeting: "Chúc ngủ ngon", day: false };
 	}
 };
 
@@ -101,7 +101,7 @@ export const getQuestions = async (endpoints: string[]) => {
 		const response = storeData(questions);
 		return response;
 	} catch (error) {
-		console.error("Error fetching data:", error);
+		console.error("Lỗi:", error);
 	}
 };
 

@@ -25,7 +25,7 @@ export default function LeaderboardScreen() {
 	return (
 		<SafeAreaView className='flex-1 bg-orange-100 p-4'>
 				<Text className='text-2xl font-bold text-gray-500 text-center mb-6'>
-					Leaderboard
+					Bảng xếp hạng
 				</Text>
 
 				{loading ? (

@@ -42,17 +42,17 @@ export default function RegisterScreen() {
 							className='mb-4'
 						/>
 						<Text className='text-3xl mb-4 font-bold text-white text-center'>
-							Register
+							Đăng ký
 						</Text>
 					</View>
 
-					<Text className='text-lg text-gray-200'>Email Address</Text>
+					<Text className='text-lg text-gray-200'>Email</Text>
 					<TextInput
 						className='w-full border-b-[1px] py-4 rounded-md mb-3 text-white font-bold'
 						onChangeText={setEmail}
 						value={email}
 					/>
-					<Text className='text-lg text-gray-200'>Password</Text>
+					<Text className='text-lg text-gray-200'>Mật khẩu</Text>
 					<TextInput
 						className='w-full border-b-[1px] py-4 rounded-md mb-3 text-white font-bold'
 						secureTextEntry
@@ -69,9 +69,9 @@ export default function RegisterScreen() {
 						</Text>
 					</Pressable>
 					<Text className='text-center mt-2 text-orange-200'>
-						Already have an account?{" "}
+						Bạn đã có tài khoản?{" "}
 						<Link href='/'>
-							<Text className='text-white'>Sign in</Text>
+							<Text className='text-white'>Đăng Nhập</Text>
 						</Link>
 					</Text>
 				</View>

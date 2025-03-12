@@ -82,7 +82,7 @@ export default function ProfileScreen() {
 			</View>
 
 			<Text className='font-bold text-xl text-gray-700 mb-3 px-4'>
-				Recent Attempts
+				Kết quả
 			</Text>
 			{dataLoading ? (
 				<ActivityIndicator size='large' color='#ea580c' />
