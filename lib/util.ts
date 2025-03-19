@@ -129,21 +129,24 @@ export const getAllQuestionsFromStorage = async () => {
 export const saveScore = async ({
 	userScore,
 	userID,
+	userEmail,
 }: {
 	userScore: number;
 	userID: string | undefined;
+	userEmail: string | undefined;
 }) => {
 	if (!userID) return;
 	try {
 		const { data, error } = await supabase
-				.from("scores")
-				.insert({
-					attempts: [{ score: userScore, date: getCurrentDate() }],
-					total_score: userScore,
-					user_id: userID,
-				})
-				.single();
-			if (error) throw error;
+			.from("scores")
+			.insert({
+				attempts: [{ score: userScore, date: getCurrentDate() }],
+				total_score: userScore,
+				user_id: userID,
+				email: userEmail,
+			})
+			.single();
+		if (error) throw error;
 	} catch (err) {
 		console.log(err);
 	}
@@ -160,7 +163,6 @@ export const getUserAttempts = async (userID: string | undefined) => {
 		return { attempts: data[0].attempts, total_score: data[0].total_score };
 	} catch (err) {
 		return { attempts: "", total_score: 0 };
-	
 	}
 };
 
@@ -168,7 +170,7 @@ export const getLeaderBoard = async () => {
 	try {
 		const { data, error } = await supabase
 			.from("scores")
-			.select("total_score, user_id")
+			.select("total_score, user_id, email")
 			.order("total_score", { ascending: false })
 			.limit(10);
 		if (error) throw error;

@@ -7,7 +7,9 @@ import { getLeaderBoard } from "../../lib/util";
 interface Props {
 	total_score: number;
 	user_id: string;
+	email: string;
 }
+
 export default function LeaderboardScreen() {
 	const [leaderboard, setLeaderboard] = useState<Props[]>([]);
 	const [loading, setLoading] = useState<boolean>(true);
@@ -24,20 +26,20 @@ export default function LeaderboardScreen() {
 
 	return (
 		<SafeAreaView className='flex-1 bg-orange-100 p-4'>
-				<Text className='text-2xl font-bold text-gray-500 text-center mb-6'>
-					Bảng xếp hạng
-				</Text>
+			<Text className='text-2xl font-bold text-gray-500 text-center mb-6'>
+				Bảng xếp hạng
+			</Text>
 
-				{loading ? (
-					<ActivityIndicator size='large' color='#ea580c' />
-				) : (
-					<FlatList
-						data={leaderboard}
-						renderItem={({ item }) => <Board item={item} />}
-						keyExtractor={(item) => item.user_id}
-						showsVerticalScrollIndicator={false}
-					/>
-				)}
-			</SafeAreaView>
+			{loading ? (
+				<ActivityIndicator size='large' color='#ea580c' />
+			) : (
+				<FlatList
+					data={leaderboard}
+					renderItem={({ item }) => <Board item={item} />}
+					keyExtractor={(item) => item.user_id}
+					showsVerticalScrollIndicator={false}
+				/>
+			)}
+		</SafeAreaView>
 	);
 }

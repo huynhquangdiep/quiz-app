@@ -17,7 +17,7 @@ export default function CompletedScreen() {
 	const router = useRouter();
 
 	const storeScore = useCallback(() => {
-		saveScore({ userScore: Number(score), userID: session?.user.id });
+		saveScore({ userScore: Number(score), userID: session?.user.id, userEmail: session?.user.email });
 	}, []);
 
 	useEffect(() => {

@@ -33,20 +33,22 @@ export default function HomeScreen() {
 		}
 	};
 
-	// const handleStartTest = async () => {
-		// Alert.alert("Start Test", "Are you sure you want to start the test?", [
-		// 	{
-		// 		text: "Cancel",
-		// 		style: "destructive",
-		// 	},
-		// 	{
-		// 		text: "Yes",
-		// 		onPress: () => fetchQuestions(),
-		// 	},
-		// ]);
-	// };
+	// Used for mobile
+	const handleStartTest = async () => {
+		Alert.alert("Bắt đầu bài thi", "Bạn có muốn bắt đầu bài thi không?", [
+			{
+				text: "Không",
+				style: "destructive",
+			},
+			{
+				text: "Có",
+				onPress: () => fetchQuestions(),
+			},
+		]);
+	};
 
-	const handleStartTest = async () => fetchQuestions();
+	// Uncomment if you want to use this on web
+	// const handleStartTest = async () => fetchQuestions();
 
 	return (
 		<SafeAreaView className='flex-1 bg-orange-100 px-4 py-2'>
