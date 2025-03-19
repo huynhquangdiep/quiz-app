@@ -38,9 +38,9 @@ export default function CompletedScreen() {
 				<View className='flex-1 flex items-center justify-center'>
 					<View className='bg-orange-50 w-full py-[50px] rounded-xl p-4 flex items-center justify-center shadow-lg shadow-orange-500'>
 						<Text className='text-3xl text-orange-600 font-bold mb-4'>
-							{Number(score) > 20 ? "Congratulations🥳" : "Sorry! You lose 🥲"}
+							{Number(score) > 20 ? "Chúc mừng bạn🥳" : "Rất tiếc 🥲"}
 						</Text>
-						<Text className='font-bold text-xl'>You scored {score}!</Text>
+						<Text className='font-bold text-xl'>Điểm của bạn là {score}!</Text>
 					</View>
 				</View>
 			</ImageBackground>
