@@ -2,6 +2,7 @@ import {
 	categories,
 	getGreeting,
 	getQuestions,
+	isWeb,
 	returnFirstSixWords,
 } from "../../lib/util";
 import { View, Text, FlatList, Pressable, Alert } from "react-native";
@@ -33,22 +34,17 @@ export default function HomeScreen() {
 		}
 	};
 
-	// Used for mobile
 	const handleStartTest = async () => {
+		if (isWeb) {
+			await fetchQuestions();
+			return;
+		}
+	
 		Alert.alert("Bắt đầu bài thi", "Bạn có muốn bắt đầu bài thi không?", [
-			{
-				text: "Không",
-				style: "destructive",
-			},
-			{
-				text: "Có",
-				onPress: () => fetchQuestions(),
-			},
+			{ text: "Không", style: "destructive" },
+			{ text: "Có", onPress: fetchQuestions },
 		]);
 	};
-
-	// Uncomment if you want to use this on web
-	// const handleStartTest = async () => fetchQuestions();
 
 	return (
 		<SafeAreaView className='flex-1 bg-orange-100 px-4 py-2'>

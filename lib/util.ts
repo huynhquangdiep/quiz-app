@@ -1,5 +1,8 @@
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { supabase } from "./supabase";
+import { Platform } from 'react-native';
+
+export const isWeb = Platform.OS === 'web';
 
 export interface Category {
 	id: string;

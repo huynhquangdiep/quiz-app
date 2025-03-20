@@ -1,12 +1,10 @@
 import 'react-native-url-polyfill/auto';
 import * as SecureStore from 'expo-secure-store';
 import { createClient } from '@supabase/supabase-js';
-import { Platform } from 'react-native';
+import { isWeb } from './util';
 
 const supabaseUrl = process.env.EXPO_PUBLIC_API_URL!;
 const supabaseAnonKey = process.env.EXPO_PUBLIC_API_KEY!;
-
-const isWeb = Platform.OS === 'web';
 
 const WebStorageAdapter = {
   getItem: (key: string) => Promise.resolve(typeof window !== 'undefined' ? window.localStorage.getItem(key) : null),
