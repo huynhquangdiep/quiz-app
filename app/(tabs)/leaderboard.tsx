@@ -36,7 +36,7 @@ export default function LeaderboardScreen() {
 				<FlatList
 					data={leaderboard}
 					renderItem={({ item }) => <Board item={item} />}
-					keyExtractor={(item) => item.user_id}
+					keyExtractor={(_, index) => index.toString()}
 					showsVerticalScrollIndicator={false}
 				/>
 			)}
